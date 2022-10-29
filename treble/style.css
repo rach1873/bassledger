@@ -24,6 +24,19 @@ h3 {
     color: white;
 }
 
+.treble {
+    background-color: orange;
+    padding: 10px;
+    border: 1px white solid;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+   
+}
+
+.treble a {
+    color: #fff;
+}
+
 .ledger {
     width: 400px;
     min-height: 500px;
